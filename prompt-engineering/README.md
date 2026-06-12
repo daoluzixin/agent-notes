@@ -4,5 +4,5 @@
 
 | 文件 | 内容 |
 |------|------|
-| `best-practices.md` | Prompt 工程 + Skill 工程的完整最佳实践（方法论、原则、检查表） |
-| `gan-optimizer-template.md` | GAN 风格 Prompt 自优化 Agent 模板（可直接复用到任意项目） |
+| `Prompt与Skill最佳实践.md` | Prompt 工程 + Skill 工程的完整最佳实践（方法论、原则、检查表） |
+| `GAN风格Prompt自优化模板.md` | GAN 风格 Prompt 自优化 Agent 模板（可直接复用到任意项目） |
