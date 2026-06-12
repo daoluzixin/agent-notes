@@ -1,0 +1,16 @@
+prompt-engineering/README.md
+  h_b78a316c9f6996 7-8
+README.md
+  h_b78a316c9f6996 9,13,17-24,29-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.0.0",
+  "base_commit_sha": "004f2583c2fc7a1a411b27f575f0aa6383981226",
+  "prompts": {},
+  "humans": {
+    "h_b78a316c9f6996": {
+      "author": "fengyunhao <fengyunhao@meituan.com>"
+    }
+  }
+}
