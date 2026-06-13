@@ -1,0 +1,14 @@
+README.md
+  h_b78a316c9f6996 25-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.0.0",
+  "base_commit_sha": "62f53db78edcfe861a5c09347511008b23a23006",
+  "prompts": {},
+  "humans": {
+    "h_b78a316c9f6996": {
+      "author": "fengyunhao <fengyunhao@meituan.com>"
+    }
+  }
+}
