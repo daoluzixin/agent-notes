@@ -24,7 +24,7 @@ Prompt & Skill 工程实践方法论：从概率性系统优化的视角出发�
 
 ### [记忆系统方法论.md](./记忆系统方法论.md)
 
-记忆系统方法论：用纯本地 Markdown 文件 + AGENTS.md 指令自驱，解决 AI 跨会话"失忆"问题的可移植记忆系统。包含数据结构四层设计（磁盘单后端、长期/每日时间分层、晋升机制、写入纪律）、靠 AGENTS.md 驱动的运作闭环，以及零依赖迁移到新机器（如 codex 环境）的完整方案。
+记忆系统方法论：把跨会话记忆设计成“外置状态 + 路由门禁 + 渐进召回 + 生命周期管理”的本地状态服务。覆盖 MEMORY/daily/历史快照的数据分层、AGENTS.md 与 Skill 的职责边界、`read-context`/`append-daily`/`promote`/`maintain` 四种操作、按主题最小读取与读写权限隔离，以及纯文本迁移方案。公开实现见 [`Fyrgo8/memory-system-skill`](https://github.com/Fyrgo8/memory-system-skill)。
 
 ### [prompt-engineering/](./prompt-engineering/)
 
